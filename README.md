@@ -1,4 +1,4 @@
-minazou67.github.io
+My GitHub Pages
 ===================
 
-My GitHub Pages
+http://minazou67.github.io/
